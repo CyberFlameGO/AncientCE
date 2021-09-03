@@ -1,0 +1,14 @@
+net/cyberflame/ancientce/utils/Enchantment.class
+net/cyberflame/ancientce/Main.class
+net/cyberflame/ancientce/commands/CMDHelp.class
+net/cyberflame/ancientce/enums/EnchantTrigger.class
+net/cyberflame/ancientce/listeners/PlayerDeathListener.class
+net/cyberflame/ancientce/results/Results.class
+net/cyberflame/ancientce/listeners/EntityDamageByEntityListener.class
+net/cyberflame/ancientce/utils/Utils.class
+net/cyberflame/ancientce/commands/CMDEnchant.class
+net/cyberflame/ancientce/managers/EnchantManager.class
+net/cyberflame/ancientce/utils/EnchantLevelUtils.class
+net/cyberflame/ancientce/managers/CommandManager.class
+net/cyberflame/ancientce/utils/ActiveEnchantment.class
+net/cyberflame/ancientce/utils/SubCommand.class

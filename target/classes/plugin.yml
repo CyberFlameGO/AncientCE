@@ -1,0 +1,9 @@
+main: net.cyberflame.ancientce.Main
+name: AncientCE
+api-version: 1.13
+version: 1.0
+
+commands:
+  ce:
+    description: Main command
+    usage: /ce
